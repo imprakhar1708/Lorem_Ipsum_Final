@@ -1,0 +1,24 @@
+.li{
+    list-style: none;
+    font-family: "Roboto";
+    padding: 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid #9a9a9a;
+    color: var(--black);
+    font-size: .925rem;
+}
+
+.active, .li:hover{
+    border-bottom: 4px solid var(--primary_clr);
+}
+
+.active-chip{
+    background-color: var(--primary_clr) !important;
+	color: white !important;
+}
+
+@media screen and (max-width: 430px) {
+    .li{
+        padding: 0.45rem;
+    }
+}

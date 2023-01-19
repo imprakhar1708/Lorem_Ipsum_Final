@@ -1,0 +1,136 @@
+[{
+    "name": "Plain Cheese Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "150",
+    "veg": "true"
+},
+{
+    "name": "Cheese Burst Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "200",
+    "veg": "true"
+},
+{
+    "name": "Paneer Tikka Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "200",
+    "veg": "true"
+},
+{
+    "name": "Caprese Veg Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "220",
+    "veg": "true"
+},
+{
+    "name": "Cheesy Chicken Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "250",
+    "veg": "false"
+},
+{
+    "name": "Chicken Tikka Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "270",
+    "veg": "false"
+},
+{
+    "name": "Chicken & Mushroom Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "270",
+    "veg": "false"
+},
+{
+    "name": "Chicken Caprese Garlic Bread",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Garlic Bread",
+    "rating": "5",
+    "price": "270",
+    "veg": "false"
+},
+{
+    "name": "Tandoori Roti",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "35",
+    "veg": "true"
+},
+{
+    "name": "Tandoori Naan",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "55",
+    "veg": "true"
+},
+{
+    "name": "Garlic Naan",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "65",
+    "veg": "true"
+},
+{
+    "name": "Cheese Garlic Naan",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "100",
+    "veg": "true"
+},
+{
+    "name": "kulcha",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "50",
+    "veg": "true"
+},
+{
+    "name": "Lacchha Paratha",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "65",
+    "veg": "true"
+},
+{
+    "name": "Bread Basket",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "300",
+    "veg": "true"
+},
+{
+    "name": "Stuffed Jamaican Chicken Naan",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "200",
+    "veg": "false"
+},
+{
+    "name": "Stuffed Peri Peri Chicken Naan",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Breads",
+    "rating": "5",
+    "price": "200",
+    "veg": "false"
+}]

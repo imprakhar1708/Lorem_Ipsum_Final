@@ -1,0 +1,520 @@
+[{
+    "name": "Veggie Cheesy Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "170",
+    "veg": "true"
+},
+{
+    "name": "Crispy Paneer Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "220",
+    "veg": "true"
+},
+{
+    "name": "Jamaican Veggie Roll",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "200",
+    "veg": "true"
+},
+{
+    "name": "Exotic Cottage Cheese Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "260",
+    "veg": "true"
+},
+{
+    "name": "Schezwan Paneer Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "280",
+    "veg": "true"
+},
+{
+    "name": "Peri Peri Paneer Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "250",
+    "veg": "true"
+},
+{
+    "name": "Butter Chicken Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Chicken Tikka Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Jamaican Chicken Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Schezwan Chicken Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Basil Chicken Pesto Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Egg Wrap",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Wraps",
+    "rating": "5",
+    "price": "200",
+    "veg": "false"
+},
+{
+    "name": "Salted French Fries",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "90",
+    "veg": "true"
+},
+{
+    "name": "Peri Peri French Fries",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "120",
+    "veg": "true"
+},
+{
+    "name": "Jamaican French Fries",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "130",
+    "veg": "true"
+},
+{
+    "name": "Loaded French Fries",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "280",
+    "veg": "true"
+},
+{
+    "name": "Cheesy French Fries",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "170",
+    "veg": "true"
+},
+{
+    "name": "Crispy Chicken Stripes",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "French Fries",
+    "rating": "5",
+    "price": "90",
+    "veg": "false"
+},
+{
+    "name": "Aloo Tikki Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "150",
+    "veg": "true"
+},
+{
+    "name": "Veg Cheese Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "200",
+    "veg": "true"
+},
+{
+    "name": "Paneer Cheese Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "270",
+    "veg": "true"
+},
+{
+    "name": "Chicken Juicy Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "300",
+    "veg": "false"
+},
+{
+    "name": "Mutton Kheema Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "425",
+    "veg": "false"
+},
+{
+    "name": "Chicken Tikka Burger",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Burgers",
+    "rating": "5",
+    "price": "350",
+    "veg": "false"
+},
+{
+    "name": "Margarita",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "400",
+    "veg": "true"
+},
+{
+    "name": "Farm Fresh",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "470",
+    "veg": "true"
+},
+{
+    "name": "Indiana",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "500",
+    "veg": "true"
+},
+{
+    "name": "Milano",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "530",
+    "veg": "true"
+},
+{
+    "name": "Paneer Tikka",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "600",
+    "veg": "true"
+},
+{
+    "name": "Hell & Heaven",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "550",
+    "veg": "true"
+},
+{
+    "name": "Onion & Bell Pepper",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "430",
+    "veg": "true"
+},
+{
+    "name": "Mexican Delight",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "540",
+    "veg": "true"
+},
+{
+    "name": "Chicken Tikka",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "550",
+    "veg": "false"
+},
+{
+    "name": "Butter Chicken",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "570",
+    "veg": "false"
+},
+{
+    "name": "Hell & Heaven",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "620",
+    "veg": "false"
+},
+{
+    "name": "Flaming Chicken",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "600",
+    "veg": "false"
+},
+{
+    "name": "Chicken Kebab",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "700",
+    "veg": "false"
+},
+{
+    "name": "Chicken Bonanza",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "800",
+    "veg": "false"
+},
+{
+    "name": "Chicken Mexicana",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "600",
+    "veg": "false"
+},
+{
+    "name": "Barbeque Chicken",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pizza",
+    "rating": "5",
+    "price": "600",
+    "veg": "false"
+},
+{
+    "name": "Veg Hakka Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "230",
+    "veg": "true"
+},
+{
+    "name": "Veg Schezwan Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "250",
+    "veg": "true"
+},
+{
+    "name": "Veg Singapore Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "250",
+    "veg": "true"
+},
+{
+    "name": "Veg Chilly Garlic Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "300",
+    "veg": "true"
+},
+{
+    "name": "Chicken Hakka Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "260",
+    "veg": "false"
+},
+{
+    "name": "Chicken Schezwan Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "280",
+    "veg": "false"
+},
+{
+    "name": "Chicken Singapore Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "280",
+    "veg": "false"
+},
+{
+    "name": "Chicken Chilly Garlic Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Prawns Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "350",
+    "veg": "false"
+},
+{
+    "name": "Prawns Schezwan Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "380",
+    "veg": "false"
+},
+{
+    "name": "Prawns Singapore Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "380",
+    "veg": "false"
+},
+{
+    "name": "Prawns Chilly Garlic Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "410",
+    "veg": "false"
+},
+{
+    "name": "Chicken Hakka Noodles",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Noodles",
+    "rating": "5",
+    "price": "260",
+    "veg": "false"
+},
+{
+    "name": "Veg Mac & Cheese Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "300",
+    "veg": "true"
+},
+{
+    "name": "Veg Arrabiata Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "260",
+    "veg": "true"
+},
+{
+    "name": "Veg Alfredo Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "270",
+    "veg": "true"
+},
+{
+    "name": "Veg Pesto Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "330",
+    "veg": "true"
+},
+{
+    "name": "Veg Pink Sauce Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "300",
+    "veg": "true"
+},
+{
+    "name": "Aglio Olio",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "350",
+    "veg": "true"
+},
+{
+    "name": "Chicken Mac & Cheese Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Chicken Arrabiata Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "320",
+    "veg": "false"
+},
+{
+    "name": "Chicken Alfredo Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "330",
+    "veg": "false"
+},
+{
+    "name": "Chicken Pesto Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "360",
+    "veg": "false"
+},
+{
+    "name": "Chicken Pink Sauce Pasta",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "360",
+    "veg": "false"
+},
+{
+    "name": "Chicken Aglio Olio",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Pasta",
+    "rating": "5",
+    "price": "450",
+    "veg": "false"
+}]

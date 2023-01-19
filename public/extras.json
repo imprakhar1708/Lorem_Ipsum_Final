@@ -1,0 +1,40 @@
+[{
+    "name": "Schezwan Sauce",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Accompaniments",
+    "rating": "5",
+    "price": "70",
+    "veg": "true"
+},
+{
+    "name": "Mayonnaise (Tandoori/Garlic)",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Accompaniments",
+    "rating": "5",
+    "price": "70",
+    "veg": "true"
+},
+{
+    "name": "Raita",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Accompaniments",
+    "rating": "5",
+    "price": "80",
+    "veg": "true"
+},
+{
+    "name": "Soft Drinks",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Accompaniments",
+    "rating": "5",
+    "price": "25",
+    "veg": "true"
+},
+{
+    "name": "Mineral Water",
+    "image": "http://picz.in/data/media/8/Fast-food.jpg",
+    "category": "Accompaniments",
+    "rating": "5",
+    "price": "25",
+    "veg": "true"
+}]

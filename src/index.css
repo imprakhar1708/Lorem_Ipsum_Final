@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: grey;
+}
+
+:root{
+    --primary_clr : #097969;
+    --black : #343434;
+}
+
+.cursive{
+    font-family: "Moon Dance";
+    color:#097969;
+    z-index: 3;
+}
+
+.black{
+    color:var(--black);
+}
+
+.card {
+    backdrop-filter: blur(25px) saturate(200%) !important;
+    -webkit-backdrop-filter: blur(25px) saturate(200%) !important;
+    background-color: white !important;
+    border: 1px solid rgba(255, 255, 255, 0.125) !important;
+}
+
+@media screen and (max-width:430px) {
+    html{
+        font-size: 13px;
+    }
+    .about_container{
+        flex-direction: column !important;
+    }
+    .about_content{
+        width: 100% !important;
+    }
+    .overlay{
+        display: none !important;
+    }
+    .book_container{
+        padding: 20px !important;
+
+    }
+    .book_select{
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 10px;
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width:321px) {
+    html{
+        font-size: 11.4px;
+    }
+}

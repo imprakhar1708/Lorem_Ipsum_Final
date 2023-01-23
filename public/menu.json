@@ -1,0 +1,2391 @@
+[
+    {
+        "name": "Paparazzi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "100",
+        "veg": "true"
+
+    },
+    {
+        "name": "Manchow Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "100",
+        "veg": "true"
+        
+    },
+    {
+        "name": "Chicken Hot & Sour Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "110",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tom Yum Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "120",
+        "veg": "false"
+    },
+    {
+        "name": "Hot & Sour Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "100",
+        "veg": "true"
+        
+    },
+    {
+        "name": "Tom-Yum Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "110",
+        "veg": "true"
+        
+    },
+    {
+        "name": "Lemon Coriander Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "2",
+        "price": "100",
+        "veg": "true"
+    },
+    {
+        "name": "Almond Broccoli Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "140",
+        "veg": "true"
+    },
+    {
+        "name": "Cream of Tomato Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "100",
+        "veg": "true"
+    },
+    {
+        "name": "Tomato Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "100",
+        "veg": "true"
+    },
+    {
+        "name": "Burmese Khow Suey",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "150",
+        "veg": "true"
+    },
+    {
+        "name": "Japane Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "120",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Manchow Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "110",
+        "veg": "false"
+    },
+    
+    {
+        "name": "Chicken Lemon Coriander Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "110",
+        "veg": "false"
+    },
+    {
+        "name": "Spiced Chicken Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "120",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Burmese Khow Suey",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "170",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Japane Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "140",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Almond Broccoli",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "160",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Manchow Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "150",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Hot & Sour Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "140",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Tom Yum Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "150",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Lemon Coriander Soup",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "140",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "170",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Burmese Khow Suey",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "230",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Japane Shorba",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Soups",
+        "rating": "5",
+        "price": "200",
+        "veg": "false"
+    },
+    {
+        "name": "Green Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "120",
+        "veg": "true"
+    },
+    {
+        "name": "Exotic Veggie Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "210",
+        "veg": "true"
+    },
+    {
+        "name": "Cottage Cheese Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Macaroni Cheese Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Roasted Chicken Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Jamaican Chicken Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken & Broccoli Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken & Egg Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Boiled Egg Salad",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Salad",
+        "rating": "5",
+        "price": "100",
+        "veg": "false"
+    },
+    {
+        "name": "Veg Crispy",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Coriander Chilly",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Coriander Chilly",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Chilly",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Schezwan Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Oyster Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Crispy Corn/Babycorn",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer 65",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Shanghai Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Cheese Chilly Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Do Till Kebab",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Hara Bhara Kebab",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Kurmure Kebab",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Salami",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Cigar Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Gulati Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Rajwadi Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Cheese Balls",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Italian Cheeze Fingers",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Onion Rings",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "310",
+        "veg": "true"
+    },
+    {
+        "name": "Peri Peri Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "340",
+        "veg": "true"
+    },
+    {
+        "name": "Malai Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Angara",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Pahadi Paneer Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "true"
+    },
+    {
+        "name": "Reshmi Paneer Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "340",
+        "veg": "true"
+    },
+    {
+        "name": "Achari Paneer Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Angara Soya",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Peri Peri Soya Chaap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "320",
+        "veg": "true"
+    },
+    {
+        "name": "Pahadi Soya Chaap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Achari Soya Chaap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },{
+        "name": "Mushroom Mazedar Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Spinach Cheese Balls",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Chilly",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Schezwan Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Oyster Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Fire Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Shanghai Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken 65",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Hunan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "340",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Lollypop",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "340",
+        "veg": "false"
+    },
+    {
+        "name": "Drums of Heaven",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Afghani Tawa Tangdi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Masala Tawa Tangdi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Stuffed Tangdi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Cheese Chicken Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Makhmali Chicken Tikki",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Chef Special",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "800",
+        "veg": "false"
+    },
+    {
+        "name": "Barbeque Chicken Wings",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "260",
+        "veg": "false"
+    },
+    {
+        "name": "Wings on Fire",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Peri Peri Wings",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Tornado Wings",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Crispy Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Fish Finger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Golden Fry Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Nuggets",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Cheese Chicken Ball",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Angara Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Afghani Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Achari Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "370",
+        "veg": "false"
+    },
+    {
+        "name": "Rajoli Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Dil Khush",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Reshmi Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Malai Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Tandoori Chicken Half/Full",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "340/500",
+        "veg": "false"
+    },
+    {
+        "name": "Banjara Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Golden Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "440",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Seekh Kebab",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Dijon Glazed Chicken Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Chilly",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Schezwan Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Oyster Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Fire Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Shanghai Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns 65",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Hunan Sauce",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "460",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Jalfry",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "460",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Koliwada",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Bhuna Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Butter Garlic Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "460",
+        "veg": "false"
+    },
+    {
+        "name": "Amritsari Fish",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Lasuni Basa",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "460",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Appetizers",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Veggie Cheesy Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "170",
+        "veg": "true"
+    },
+    {
+        "name": "Crispy Paneer Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Jamaican Veggie Roll",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Exotic Cottage Cheese Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Schezwan Paneer Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Peri Peri Paneer Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Butter Chicken Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Jamaican Chicken Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Schezwan Chicken Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Basil Chicken Pesto Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Egg Wrap",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Wraps",
+        "rating": "5",
+        "price": "200",
+        "veg": "false"
+    },
+    {
+        "name": "Salted French Fries",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "90",
+        "veg": "true"
+    },
+    {
+        "name": "Peri Peri French Fries",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "120",
+        "veg": "true"
+    },
+    {
+        "name": "Jamaican French Fries",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "130",
+        "veg": "true"
+    },
+    {
+        "name": "Loaded French Fries",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Cheesy French Fries",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "170",
+        "veg": "true"
+    },
+    {
+        "name": "Crispy Chicken Stripes",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "French Fries",
+        "rating": "5",
+        "price": "90",
+        "veg": "false"
+    },
+    {
+        "name": "Aloo Tikki Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "150",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Cheese Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Cheese Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "270",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Juicy Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Mutton Kheema Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "425",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka Burger",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Burgers",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Margarita",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "400",
+        "veg": "true"
+    },
+    {
+        "name": "Farm Fresh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "470",
+        "veg": "true"
+    },
+    {
+        "name": "Indiana",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "500",
+        "veg": "true"
+    },
+    {
+        "name": "Milano",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "530",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "600",
+        "veg": "true"
+    },
+    {
+        "name": "Hell & Heaven",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "550",
+        "veg": "true"
+    },
+    {
+        "name": "Onion & Bell Pepper",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "430",
+        "veg": "true"
+    },
+    {
+        "name": "Mexican Delight",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "540",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Tikka",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "550",
+        "veg": "false"
+    },
+    {
+        "name": "Butter Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "570",
+        "veg": "false"
+    },
+    {
+        "name": "Hell & Heaven",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "620",
+        "veg": "false"
+    },
+    {
+        "name": "Flaming Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "600",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Kebab",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "700",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Bonanza",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "800",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Mexicana",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "600",
+        "veg": "false"
+    },
+    {
+        "name": "Barbeque Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pizza",
+        "rating": "5",
+        "price": "600",
+        "veg": "false"
+    },
+    {
+        "name": "Veg Hakka Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Schezwan Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Singapore Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Chilly Garlic Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Hakka Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "260",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Schezwan Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Singapore Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "280",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Chilly Garlic Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Schezwan Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Singapore Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Chilly Garlic Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "410",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Hakka Noodles",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Noodles",
+        "rating": "5",
+        "price": "260",
+        "veg": "false"
+    },
+    {
+        "name": "Veg Mac & Cheese Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Arrabiata Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Alfredo Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "270",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Pesto Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "330",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Pink Sauce Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Aglio Olio",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "350",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Mac & Cheese Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Arrabiata Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "320",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Alfredo Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Pesto Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Pink Sauce Pasta",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Aglio Olio",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Pasta",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Veggie Cheesy Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Jamaican Mushroom Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Schezwan Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "All Cheese Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Barbeque Paneer Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "African Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "270",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken Tikka Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "300",
+        "veg": "false"
+    },
+    {
+        "name": "Jamaican Chicken Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "310",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken & Mushroom Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Schezwan Chicken Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "320",
+        "veg": "false"
+    },
+    {
+        "name": "Barbeque Chicken Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "African Chicken Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "340",
+        "veg": "false"
+    },
+    {
+        "name": "Butter Chicken Vol-au-Vent",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "All Cheese Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Vol-au-Vent",
+        "rating": "5",
+        "price": "320",
+        "veg": "false"
+    },
+    {
+        "name": "Butter Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Butter Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Lahori",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Patiala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Do Pyaaza",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Dhaniya Adraki",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Murgh Musallam",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Rara Murgh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Matka Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "390",
+        "veg": "false"
+    },
+    {
+        "name": "Sizzling Angara Murgh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "400",
+        "veg": "false"
+    },
+    {
+        "name": "Lemon Chicken",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "330",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Lazedar",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "370",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Dehati Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "350",
+        "veg": "false"
+    },
+    {
+        "name": "Gauthi Rasoi Murgh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "370",
+        "veg": "false"
+    },
+    {
+        "name": "Bhuna Murgh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "370",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Toofani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "370",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Begum Bahar",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Paneer Tikka Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Butter Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "320",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Lahori",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Kadai",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Dhaniya Adraki",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "330",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Do Pyaza",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Pepper Masti",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "350",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Cheesy Bhurji",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "380",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Toofani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "320",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Chatakedar",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "320",
+        "veg": "true"
+    },
+    {
+        "name": "Sizzling Angara Paneer",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "350",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Kolhapuri",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Desi Tawa Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "270",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Kadai",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Sabzi Begum Bahar",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "320",
+        "veg": "true"
+    },
+    {
+        "name": "Mushroom Tikka Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "350",
+        "veg": "true"
+    },
+    {
+        "name": "Kaju Curry/Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "400",
+        "veg": "true"
+    },
+    {
+        "name": "Dum Aloo Punjabi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Jaipuri",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Kheema Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Patiala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "390",
+        "veg": "true"
+    },
+    {
+        "name": "Mutton Rogan Josh",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Bhuna Gosht",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "490",
+        "veg": "false"
+    },
+    {
+        "name": "Mutton Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "440",
+        "veg": "false"
+    },
+    {
+        "name": "Mutton Chur Chur Grill",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "550",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Chur Chur Grill",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Mutton Kheema Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "430",
+        "veg": "false"
+    },
+    {
+        "name": "Rara Gosht",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "560",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Green Masala",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "560",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Curry",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "500",
+        "veg": "false"
+    },
+    {
+        "name": "Prawns Rajwadi",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "530",
+        "veg": "false"
+    },
+    {
+        "name": "Amritsari Prawns",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "530",
+        "veg": "false"
+    },
+    {
+        "name": "Amritsari Basa",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Main Course",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Veg Fried Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Burnt Garlic Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Schezwan Fried Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "240",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Spinach Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "230",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Singapore Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "280",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Thai Spicy Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Steam Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "120",
+        "veg": "true"
+    },
+    {
+        "name": "Jeera Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "140",
+        "veg": "true"
+    },
+    {
+        "name": "Peas Pulav",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "160",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Biryani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "190",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Matka Moti",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "250",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Hyderabadi Biryani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "210",
+        "veg": "true"
+    },
+    {
+        "name": "Veg Pot Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "260",
+        "veg": "true"
+    },
+    {
+        "name": "Chicken/Prawns Fried Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "280/380",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken/Prawns Burnt Garlic Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "250/400",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Schezwan Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "260",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Spinach Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "250",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Singapore Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "290",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken/Prawns Thai Spicy Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "300/470",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "340",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken/Prawns Dum Biryani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "320/470",
+        "veg": "false"
+    },
+    {
+        "name": "Matka Moti",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "340",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Cheese Masala Pulav",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "310",
+        "veg": "false"
+    },
+    {
+        "name": "Zafrani Pulav",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "380",
+        "veg": "false"
+    },
+    {
+        "name": "Hyderabadi Biryani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "360",
+        "veg": "false"
+    },
+    {
+        "name": "Dum Gosht Biryani",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "450",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken/Prawns Pot Rice",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Rice",
+        "rating": "5",
+        "price": "300/410",
+        "veg": "false"
+    },
+    {
+        "name": "Schezwan Sauce",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Accompaniments",
+        "rating": "5",
+        "price": "70",
+        "veg": "true"
+    },
+    {
+        "name": "Mayonnaise (Tandoori/Garlic)",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Accompaniments",
+        "rating": "5",
+        "price": "70",
+        "veg": "true"
+    },
+    {
+        "name": "Raita",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Accompaniments",
+        "rating": "5",
+        "price": "80",
+        "veg": "true"
+    },
+    {
+        "name": "Soft Drinks",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Accompaniments",
+        "rating": "5",
+        "price": "25",
+        "veg": "true"
+    },
+    {
+        "name": "Mineral Water",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Accompaniments",
+        "rating": "5",
+        "price": "25",
+        "veg": "true"
+    },
+    {
+        "name": "Plain Cheese Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "150",
+        "veg": "true"
+    },
+    {
+        "name": "Cheese Burst Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Paneer Tikka Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "200",
+        "veg": "true"
+    },
+    {
+        "name": "Caprese Veg Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "220",
+        "veg": "true"
+    },
+    {
+        "name": "Cheesy Chicken Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "250",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Tikka Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "270",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken & Mushroom Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "270",
+        "veg": "false"
+    },
+    {
+        "name": "Chicken Caprese Garlic Bread",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Garlic Bread",
+        "rating": "5",
+        "price": "270",
+        "veg": "false"
+    },
+    {
+        "name": "Tandoori Roti",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "35",
+        "veg": "true"
+    },
+    {
+        "name": "Tandoori Naan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "55",
+        "veg": "true"
+    },
+    {
+        "name": "Garlic Naan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "65",
+        "veg": "true"
+    },
+    {
+        "name": "Cheese Garlic Naan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "100",
+        "veg": "true"
+    },
+    {
+        "name": "kulcha",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "50",
+        "veg": "true"
+    },
+    {
+        "name": "Lacchha Paratha",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "65",
+        "veg": "true"
+    },
+    {
+        "name": "Bread Basket",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "300",
+        "veg": "true"
+    },
+    {
+        "name": "Stuffed Jamaican Chicken Naan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "200",
+        "veg": "false"
+    },
+    {
+        "name": "Stuffed Peri Peri Chicken Naan",
+        "image": "http://picz.in/data/media/8/Fast-food.jpg",
+        "category": "Breads",
+        "rating": "5",
+        "price": "200",
+        "veg": "false"
+    }
+
+]

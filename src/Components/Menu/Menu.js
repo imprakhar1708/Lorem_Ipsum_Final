@@ -4,8 +4,6 @@ import {
 	InputLabel,
 	MenuItem,
 	Pagination,
-	Paper,
-	Rating,
 	Select,
 	Typography,
 } from "@mui/material"
@@ -29,8 +27,10 @@ const Menu = () => {
 	const [bread, setbread] = useState(null)
 	const [extra, setextra] = useState(null)
 	const [sort, setsort] = useState(true)
+	const [page, setPage] = useState(0)
 	const [displaydata, setdisplaydata] = useState(null)
 	const [activedata, setactivedata] = useState(null)
+	const [sorteddata, setsorteddata] = useState(null)
 	const lists = [
 		"Starters",
 		"Regulars",
@@ -87,10 +87,11 @@ const Menu = () => {
 				? extra
 				: null
 		)
+		setPage(1)
 	}, [filters])
 
 	useEffect(() => {
-		setdisplaydata(
+		setsorteddata(
 			activedata
 				?.filter((item) => {
 					return filters.rating === true
@@ -106,8 +107,11 @@ const Menu = () => {
 					return sort ? a.price - b.price : b.price - a.price
 				})
 		)
-		console.log(sort)
-	}, [filters, activedata, sort])
+	}, [filters, activedata, sort, page])
+
+	useEffect(() => {
+		setdisplaydata(sorteddata?.slice((page - 1) * 8, (page - 1) * 8 + 8))
+	}, [sorteddata])
 
 	return (
 		<Stack
@@ -316,6 +320,15 @@ const Menu = () => {
 					})
 				)}
 			</Stack>
+			<Pagination
+				count={Math.ceil(sorteddata?.length / 8)}
+				variant='outlined'
+				sx={{ alignSelf: "center" }}
+				onChange={(e, page) => {
+					setPage(page)
+				}}
+				page={page}
+			/>
 		</Stack>
 	)
 }

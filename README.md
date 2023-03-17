@@ -2,6 +2,8 @@
 
 - ### Deployed Website Link : https://farm-to-table-final.netlify.app/
 
+✅ Collabrotive Project For GWOC Organized By GDSC NIT Surat.
+
 ✅ Created A React.js Cafe Website which is Fully Production Ready and Responsive on Various Laptop and Mobile Screens.
 
 ✅ It's Hero Section's Background is Custom Made Completely From Scratch Using Canva.( Credits: Romit Chakraborty ).
